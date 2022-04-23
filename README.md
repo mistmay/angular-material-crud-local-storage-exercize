@@ -1,3 +1,5 @@
+CRUD Exercize using Material Angular. At the beginning the table is empty. You can add new products to the table, edit and delete them. Data will be saved in Local Storage.
+
 # MaterialExercize
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
